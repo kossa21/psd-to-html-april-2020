@@ -115,3 +115,8 @@ color: #ed927d;
 hr {
     border: 3px solid #dddddd;
 }
+
+.form-group {
+    display: block;
+    margin: 0 auto 1rem auto;
+}
