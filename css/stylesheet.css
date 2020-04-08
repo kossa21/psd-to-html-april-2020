@@ -86,14 +86,14 @@ color: #ed927d;
 }
 
 .pink-background-section p {
-    width: 135px;
+    width: 150px;
     display: block;
     margin: auto;
 }
 
 .pink-background-section img {
     padding-top: 40px;
-    width: 150px;
+    width: 170px;
     display: block;
     margin: 0 auto 30px auto;
 }
@@ -120,10 +120,6 @@ color: #ed927d;
     font-family: Estre;
     text-align: center;
     font-size: 1.3rem;
-}
-
-.video-fillup {
-    margin-bottom: 90px;
 }
 
 .description-section h2 {
@@ -155,12 +151,9 @@ li span {
     margin: auto;
 }
 
-.testimonials h3 {
-    margin-bottom: 80px;
-}
 
 hr {
-    border: 3px solid #dddddd;
+    border: 2px solid #dddddd;
     margin: 80px 0;
 }
 
@@ -216,13 +209,14 @@ footer {
 }
 
 footer p {
-    line-height: 80px;
     margin-bottom: 0;
 }
 
 
 @media (max-width: 991px) {
     
-    
+    header h1 {
+        font-size: 4em;
+    }
 
-  }
+}
